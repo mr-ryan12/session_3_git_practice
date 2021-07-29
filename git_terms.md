@@ -3,3 +3,4 @@ init
 diff  
 branch  
 checkout  
+commit  
